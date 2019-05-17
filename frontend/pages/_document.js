@@ -1,3 +1,5 @@
+//fix for the flicker with SSR with styled component css ! 
+
 import Document, { Head, Main, NextScript } from 'next/document';
 import { ServerStyleSheet } from 'styled-components';
 
